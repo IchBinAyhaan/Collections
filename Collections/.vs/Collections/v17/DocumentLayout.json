@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96902B1D-DE1B-4A84-BAFB-4272327C18D4}|Student\\Student.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96902B1D-DE1B-4A84-BAFB-4272327C18D4}|Student\\Student.csproj|solutionrelative:student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96902B1D-DE1B-4A84-BAFB-4272327C18D4}|Student\\Student.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96902B1D-DE1B-4A84-BAFB-4272327C18D4}|Student\\Student.csproj|solutionrelative:student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4C4D61-70E3-46FF-B023-16EB5AD0FC99}|Collections\\Reverse.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4C4D61-70E3-46FF-B023-16EB5AD0FC99}|Collections\\Reverse.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C510D-0763-4367-897E-0F0C5A947822}|Product\\Product.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512C510D-0763-4367-897E-0F0C5A947822}|Product\\Product.csproj|solutionrelative:product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C510D-0763-4367-897E-0F0C5A947822}|Product\\Product.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\product\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512C510D-0763-4367-897E-0F0C5A947822}|Product\\Product.csproj|solutionrelative:product\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF9A508-2272-4C3F-9EF9-6EDBCBA63358}|Media\\Media.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\media\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF9A508-2272-4C3F-9EF9-6EDBCBA63358}|Media\\Media.csproj|solutionrelative:media\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF9A508-2272-4C3F-9EF9-6EDBCBA63358}|Media\\Media.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\media\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF9A508-2272-4C3F-9EF9-6EDBCBA63358}|Media\\Media.csproj|solutionrelative:media\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092B0F6-03FA-412E-B158-D46C1E5AD6CC}|Calculator\\Calculator.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9092B0F6-03FA-412E-B158-D46C1E5AD6CC}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8455B5F9-8DB0-4219-BAE5-60046C9DC6B7}|Book\\Book.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\book\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8455B5F9-8DB0-4219-BAE5-60046C9DC6B7}|Book\\Book.csproj|solutionrelative:book\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8455B5F9-8DB0-4219-BAE5-60046C9DC6B7}|Book\\Book.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8455B5F9-8DB0-4219-BAE5-60046C9DC6B7}|Book\\Book.csproj|solutionrelative:book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9092B0F6-03FA-412E-B158-D46C1E5AD6CC}|Calculator\\Calculator.csproj|c:\\users\\darya\\desktop\\ayhan12\\collections\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9092B0F6-03FA-412E-B158-D46C1E5AD6CC}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Student\\Student.cs",
+              "RelativeDocumentMoniker": "Student\\Student.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Student\\Student.cs",
+              "RelativeToolTip": "Student\\Student.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:55:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Student\\Program.cs",
+              "RelativeDocumentMoniker": "Student\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Student\\Program.cs",
+              "RelativeToolTip": "Student\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:55:39.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Collections\\Program.cs",
+              "RelativeToolTip": "Collections\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:55:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Product\\Program.cs",
+              "RelativeDocumentMoniker": "Product\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Product\\Program.cs",
+              "RelativeToolTip": "Product\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:55:29.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Product\\Inventory.cs",
+              "RelativeDocumentMoniker": "Product\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Product\\Inventory.cs",
+              "RelativeToolTip": "Product\\Inventory.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:55:26.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SocialMedia.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Media\\SocialMedia.cs",
+              "RelativeDocumentMoniker": "Media\\SocialMedia.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Media\\SocialMedia.cs",
+              "RelativeToolTip": "Media\\SocialMedia.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:55:22.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Media\\Program.cs",
+              "RelativeDocumentMoniker": "Media\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Media\\Program.cs",
+              "RelativeToolTip": "Media\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:55:20.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Book\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "Book\\PhoneBook.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Book\\PhoneBook.cs",
+              "RelativeToolTip": "Book\\PhoneBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:55:06.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Book\\Program.cs",
+              "RelativeDocumentMoniker": "Book\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Book\\Program.cs",
+              "RelativeToolTip": "Book\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:55:04.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Calculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Calculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:49:58.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan12\\Collections\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:49:52.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

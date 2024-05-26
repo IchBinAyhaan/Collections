@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\bin\Debug\net8.0\Media.exe
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\bin\Debug\net8.0\Media.deps.json
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\bin\Debug\net8.0\Media.runtimeconfig.json
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\bin\Debug\net8.0\Media.dll
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\bin\Debug\net8.0\Media.pdb
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\obj\Debug\net8.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\obj\Debug\net8.0\Media.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\obj\Debug\net8.0\Media.AssemblyInfo.cs
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\obj\Debug\net8.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\obj\Debug\net8.0\Media.sourcelink.json
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\obj\Debug\net8.0\Media.dll
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\obj\Debug\net8.0\refint\Media.dll
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\obj\Debug\net8.0\Media.pdb
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\obj\Debug\net8.0\Media.genruntimeconfig.cache
+C:\Users\Darya\Desktop\Ayhan12\Collections\Media\obj\Debug\net8.0\ref\Media.dll
